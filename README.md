@@ -1,1 +1,1 @@
-# Embeded-control
+# Embedded-control
